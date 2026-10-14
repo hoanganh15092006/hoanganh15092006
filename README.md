@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner Sóng Động -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033AD,100:512BD4&height=220&section=header&text=Ho%C3%A0ng%20Anh%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+<!-- Banner Sóng Động Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033AD,100:512BD4&height=210&section=header&text=Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh%20%F0%9F%9A%80&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<!-- Dynamic Typing Effect -->
+<!-- Hiệu Ứng Gõ Chữ Động -->
 <a href="https://github.com/hoanganh15092006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Blockchain+%26+Cardano+Enthusiast;C%23+%2F+.NET+Core+%26+Database+Developer;AI+Computer+Vision+%26+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+%26+Database+Systems+Student;C%23+%2F+.NET+Core+%26+Oracle+DB+Developer;AI+Computer+Vision+(YOLOv8)+%26+Gemini+AI+Apps;Cardano+Ecosystem+%26+Smart+Contract+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,36 +19,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: Software Engineering & Database Systems Student.
-- ⛓️ **Blockchain Focus**: Passionate about **Cardano Ecosystem**, Smart Contracts (Aiken/Plutus), eUTXO Architecture, and Decentralized Applications (dApps).
-- 💻 **Tech Stack**: C#, ASP.NET Core MVC / Web API, Entity Framework Core, JavaScript/jQuery, Bootstrap.
-- 🛢️ **Databases & DevOps**: Oracle Database, SQL Server, Docker.
-- 📬 **How to reach me**: [LinkedIn](https://linkedin.com) | [Email](mailto:your-email@gmail.com)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Blockchain** | Cardano, Aiken, Yaci DevKit, MeshJS, Blockfrost |
-| **Backend** | C#, ASP.NET Core MVC, RESTful APIs, EF Core |
-| **Frontend** | HTML5, CSS3, JavaScript, jQuery, Bootstrap |
-| **Database & DevOps** | Oracle DB, MS SQL Server, Docker, Git/GitHub |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hoanganh15092006&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganh15092006&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-  <i>"Building decentralized solutions & continuous learning."</i>
-</div>
+```yaml
+Developer: Nguyễn Hoàng Anh
+Education: Software Engineering & Database Systems
+Current Focus:
+  - Building AI-powered Web & Desktop applications (YOLOv8, Gemini, Whisper)
+  - Backend System Design with C#, ASP.NET Core MVC / Web API & Enterprise Databases
+  - Exploring Cardano Ecosystem, eUTXO Model & Smart Contracts
+Database Stack: Oracle Database, MS SQL Server, SQLite
+Main Stack: C#, Python, Java, JavaScript, Docker
+Quote: "Continuous learning & building robust systems."

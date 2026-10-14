@@ -22,7 +22,14 @@
 - ⛓️ **Blockchain Focus**: Passionate about **Cardano Ecosystem**, Smart Contracts (Aiken/Plutus), eUTXO Architecture, and Decentralized Applications (dApps).
 - 💻 **Tech Stack**: C#, ASP.NET Core MVC / Web API, Entity Framework Core, JavaScript/jQuery, Bootstrap.
 - 🛢️ **Databases & DevOps**: Oracle Database, SQL Server, Docker.
-- 📬 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nguyễn-hoàng-anh-b10a7733a) | [Email](mailto:chaxienhanoi@gmail.com)
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-hoàng-anh-b10a7733a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaxienhanoi@gmail.com)
+
+</div>
 
 ---
 

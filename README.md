@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/hoanganh15092006?tab=followers"><img src="https://img.shields.io/github/followers/hoanganh15092006?style=social" /></a>
-  <a href="https://github.com/hoanganh15092006"><img src="https://img.shields.io/github/stars/hoanganh15092006?style=social" /></a>
+  <a href="https://github.com/hoanganh15092006/hoanganh15092006"><img src="https://img.shields.io/github/stars/hoanganh15092006/hoanganh15092006?style=social" /></a>
 </p>
 
 </div>

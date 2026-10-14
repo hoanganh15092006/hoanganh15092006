@@ -1,20 +1,23 @@
 <div align="center">
 
-# 🚀 Hi, I'm Hoàng Anh!
+<!-- Banner Sóng Động -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033AD,100:512BD4&height=220&section=header&text=Ho%C3%A0ng%20Anh%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-### 💡 Blockchain & Web Developer | Cardano Ecosystem Enthusiast
+<!-- Dynamic Typing Effect -->
+<a href="https://github.com/hoanganh15092006">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Blockchain+%26+Cardano+Enthusiast;C%23+%2F+.NET+Core+%26+Database+Developer;AI+Computer+Vision+%26+Web+Applications" alt="Typing SVG" />
+</a>
 
-[![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)](https://cardano.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
----
+<p align="center">
+  <a href="https://github.com/hoanganh15092006?tab=followers"><img src="https://img.shields.io/github/followers/hoanganh15092006?style=social" /></a>
+  <a href="https://github.com/hoanganh15092006"><img src="https://img.shields.io/github/stars/hoanganh15092006?style=social" /></a>
+</p>
 
 </div>
 
-## 📌 About Me
+---
+
+## 👨‍💻 About Me
 
 - 🎓 **Education**: Software Engineering & Database Systems Student.
 - ⛓️ **Blockchain Focus**: Passionate about **Cardano Ecosystem**, Smart Contracts (Aiken/Plutus), eUTXO Architecture, and Decentralized Applications (dApps).

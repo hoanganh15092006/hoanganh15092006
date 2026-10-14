@@ -9,9 +9,14 @@
 </a>
 
 <p align="center">
-@@ -19,36 +19,13 @@
+  <a href="https://github.com/hoanganh15092006?tab=followers"><img src="https://img.shields.io/github/followers/hoanganh15092006?style=social" /></a>
+  <a href="https://github.com/hoanganh15092006"><img src="https://img.shields.io/github/stars/hoanganh15092006?style=social" /></a>
+</p>
 
-## 👨‍💻 About Me
+</div>
+
+---
+##  About Me
 
 - 🎓 **Education**: Software Engineering & Database Systems Student.
 - ⛓️ **Blockchain Focus**: Passionate about **Cardano Ecosystem**, Smart Contracts (Aiken/Plutus), eUTXO Architecture, and Decentralized Applications (dApps).

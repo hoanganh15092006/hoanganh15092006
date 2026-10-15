@@ -59,12 +59,6 @@
   <img src="https://streak-stats.demolab.com/?user=hoanganh15092006&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </a>
 
-<br><br>
-
-<!-- Thống kê Tổng quan & Ngôn ngữ -->
-<img src="https://github-readme-stats.vercel.app/api?username=hoanganh15092006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganh15092006&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
 ---
 
